@@ -1,8 +1,4 @@
-<img width=100% title="MR JERRY" alt="MR JERRY" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-MR JERRY&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MR JERRY+1N;" />
-</p><br>
-<p align='center'><img src="https://komarev.com/ghpvc/?username=MrJerrYxX&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="MrJerrYxX"/>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MrJerrYxX-IN&data=followers,repositories,stars,commits&theme=viridescent)
 
